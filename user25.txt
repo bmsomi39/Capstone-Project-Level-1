@@ -1,0 +1,11 @@
+admin, adm1n
+hoo, stack
+aa, aa
+big, don
+tellaman, drizzy
+delano, send
+cupp, win
+silver, cup
+winners, all
+losers, some
+richy, django

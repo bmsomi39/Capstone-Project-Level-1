@@ -1,0 +1,21 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+hoo, all day,so nothing all day, 29 Jun 2020, 20 Nov 2020, No
+tellaman, do this, and that, 30 Jun 2020, 20 Sep 2020, Yes
+tellaman, and also this, including that, 30 Jun 2020, 4 Jun 2021, Yes
+big, go to school, learn math, 30 Jun 2020, 12 Oct 2020, Yes
+big, earmark, and study, 30 Jun 2020, 30 Jan 2020, No
+richy, make money, lots of money, 30 Jun 2020, 2 Jan 2020, No
+delano, save some money, everyday, 30 Jun 2020, 1 Feb 2022, No
+delano, start a business, make sure it is viable, 30 Jun 2020, 25 Jun 2023, Yes
+cupp, win champs, on the first three attempts, 30 Jun 2020, 5 Apr 2025, Yes
+cupp, save winnings for following year, buy players, 30 Jun 2020, 7 May 2030, No
+cupp, sign 5 brazilian players, they must all be defenders, 30 Jun 2020, 20 Mar 2035, No
+silver, come in second for all competitions, never first, 30 Jun 2020, 14 Mar 2027, Yes
+silver, get acquinted with cup runner up prizes, get silverware, 30 Jun 2020, 31 Aug 2029, No
+winners, win english league, for two seasons in a row, 30 Jun 2019, 20 Aug 2019, Yes
+winners, win UEFA, celebrate, 7 Jul 2017, 20 Jul 2017, No
+winners, win La Liga, Tally at least 50 points at end of season, 30 Jun 2020, 2 Aug 2020, No
+losers, do better lol, just do better, 1 Jan 2016, 20 Dec 2016, Yes
+losers, just give up, you lost anyway, 30 Jun 2020, 23 Jun 2021, No
+aa, ayy whats good broze, keep pushing king push, 3 Jan 2018, 6 Feb 2018, No
